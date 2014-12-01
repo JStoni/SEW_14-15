@@ -1,2 +1,2 @@
 Learning to use git are:
-Jan-Philipp Steinwender 1/TGM
+Jan-Philipp Steinwender 3BHIT/TGM
